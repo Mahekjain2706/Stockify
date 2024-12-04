@@ -1,0 +1,15 @@
+{
+  "name": "stockify",
+  "version": "1.0.0",
+  "description": "How often we think of starting out our trading journey but mostly withdraw our plans due to various reasons. Sometimes we are skeptical about risking our money, or we may lack experience in markets and other times we do not have the money to trade or invest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
